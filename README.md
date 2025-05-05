@@ -4,7 +4,7 @@
 
 Tic Tac Toe is a simple browser-based game built with HTML, CSS, and JavaScript.
 
-Live site:
+Live site: https://silvija96.github.io/Kryziukai-nuliukai/
 
 Design: Custom design and logic by the developer.
 
@@ -47,7 +47,9 @@ Or simply open index.html in your browser.
 
 This project does not include automated tests at this time.
 
-## 👨‍💻 Author
+## 👨 Author
+
+https://github.com/Silvija96/Kryziukai-nuliukai
 
 ## ⚠️ License
 
